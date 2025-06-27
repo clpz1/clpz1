@@ -1,6 +1,6 @@
 <h1 align="center">HI THERE! IM CLPZ</h1>
 <p align="center">
-  reverse engineer • cheat dev • hypixel main<br>
+  reverse engineer • cheat dev • awful java coder<br>
   bypasses &gt; balance<br>
   built different (literally)
 </p>
