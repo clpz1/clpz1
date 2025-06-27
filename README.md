@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">HI THERE! IM CLPZ</h1>
+<p align="center">
+  reverse engineer • cheat dev • hypixel main<br>
+  bypasses &gt; balance<br>
+  built different (literally)
+</p>
 
-<!--
-**clpz1/clpz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 Projects
+- 🥷 **Evade Client** — hypixel/multiserver utility mod.  
+- 🍋 **Lemon Client** *(ex-dev)* — old client.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack & Badges
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+### 🛰️ Contact
+- Discord: `fuhclpz` (prob gonna get termed)  
+- Telegram: `@clpzreal`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img alt="CLPZ GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=clpz1&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clpz1&layout=compact&theme=radical" />
+</p>
+
+---
+
+<p align="center" style="font-style: italic; color: #7a7a7a; font-size: 1rem; letter-spacing: 1.5px;">
+  patched? keep dreaming  
+</p>
+
