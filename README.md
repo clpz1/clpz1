@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Stack & Badges
+### Stack
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -22,13 +22,13 @@
 
 ---
 
-### 🛰️ Contact
+### Contact
 - Discord: `fuhclpz` (prob gonna get termed)  
 - Telegram: `@clpzreal`
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img alt="CLPZ GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=clpz1&show_icons=true&theme=radical" />
