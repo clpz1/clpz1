@@ -9,7 +9,7 @@
 
 ### Projects
 - 🥷 **Evade Client** — *(ex-dev)* — old client.
-- 🍋 **Lemon Client** hypixel/multiserver utility mod.
+- 🍋 **Lemon Client** — hypixel/multiserver utility mod.
 
 ---
 
