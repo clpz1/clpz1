@@ -1,9 +1,4 @@
 <h1 align="center">HI THERE! IM CLPZ</h1>
-<p align="center">
-  reverse engineer • cheat dev • awful java coder<br>
-  bypasses &gt; balance<br>
-  built different (literally)
-</p>
 
 ---
 
@@ -17,7 +12,7 @@
 ---
 
 ### Contact
-- Discord: `fuhclpz` (prob gonna get termed)  
+- Discord: `fuhclpz`
 - Telegram: `@clpzreal`
 
 ---
@@ -30,11 +25,5 @@
 
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clpz1&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center" style="font-style: italic; color: #7a7a7a; font-size: 1rem; letter-spacing: 1.5px;">
-  patched? keep dreaming  
 </p>
 
