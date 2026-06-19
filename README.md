@@ -2,6 +2,13 @@
 
 ---
 
+### ABOUT
+
+- Music producer and sound designer
+- Founder of **slapdat.xyz**, an independent audio plugin brand focused on creating modern tools for music producers
+
+---
+
 ### Stack
 
 <p align="center">
